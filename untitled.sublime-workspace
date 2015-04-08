@@ -1,0 +1,1079 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"startServer"
+			],
+			[
+				"stm",
+				"stmtsTotags"
+			],
+			[
+				"st",
+				"statementMenu"
+			],
+			[
+				"stmt",
+				"stmtKeys"
+			],
+			[
+				"stat",
+				"statementMenu"
+			],
+			[
+				"ne",
+				"newTagId"
+			],
+			[
+				"appl",
+				"applyTagToStatement"
+			],
+			[
+				"new",
+				"newTagName"
+			],
+			[
+				"ch",
+				"choiceVals"
+			],
+			[
+				"ea",
+				"eachTag"
+			],
+			[
+				"getA",
+				"getAllTagApplication"
+			],
+			[
+				"tags",
+				"tagsToStmts"
+			],
+			[
+				"get",
+				"getAllStmts"
+			],
+			[
+				"chec",
+				"checkStmt"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"delay",
+				"delayTime"
+			],
+			[
+				"Loop",
+				"LoopingCall"
+			],
+			[
+				"C",
+				"Countdowns"
+			],
+			[
+				"int",
+				"internet"
+			],
+			[
+				"ca",
+				"callLater"
+			],
+			[
+				"de",
+				"delayTime"
+			],
+			[
+				"the",
+				"theActualLoop"
+			],
+			[
+				"coun",
+				"countDownTimer"
+			],
+			[
+				"eac",
+				"eachActiveCounter"
+			],
+			[
+				"count",
+				"Countdowns"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"counter",
+				"counterStart"
+			],
+			[
+				"mysqli_st",
+				"mysqli_stmt_bind_param"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"mysqli_stm",
+				"mysqli_stmt_execute"
+			],
+			[
+				"mysqli_stmt_",
+				"mysqli_stmt_bind_param"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"dr",
+				"draw_active"
+			],
+			[
+				"data",
+				"DataType"
+			],
+			[
+				"displ",
+				"display_settings"
+			],
+			[
+				"each",
+				"each_row"
+			],
+			[
+				"thi",
+				"this_field"
+			],
+			[
+				"Data",
+				"DataType"
+			],
+			[
+				"ret",
+				"return_values"
+			],
+			[
+				"par",
+				"parameters"
+			],
+			[
+				"fie",
+				"fields_available"
+			],
+			[
+				"send",
+				"sendWithStatus"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"pa",
+				"parameters"
+			],
+			[
+				"to",
+				"to_address"
+			],
+			[
+				"tag",
+				"tag_id"
+			],
+			[
+				"Cont",
+				"ContactService"
+			],
+			[
+				"contact",
+				"contact_id"
+			],
+			[
+				"optin",
+				"optin_reason"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"conta",
+				"contact_id"
+			],
+			[
+				"cu",
+				"current_tags"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"G",
+				"GroupCategoryId"
+			],
+			[
+				"curr",
+				"current_tags"
+			],
+			[
+				"this",
+				"this_value"
+			],
+			[
+				"fin",
+				"find_contacts"
+			],
+			[
+				"grou",
+				"group_of_tags"
+			],
+			[
+				"L",
+				"LastName"
+			],
+			[
+				"Gr",
+				"Groups"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"curren",
+				"current_pot"
+			],
+			[
+				"hit",
+				"hit"
+			],
+			[
+				"game_",
+				"game_end"
+			],
+			[
+				"cal",
+				"calculate_cards"
+			],
+			[
+				"dea",
+				"deal_a_card_up"
+			],
+			[
+				"nee",
+				"need_to_deal"
+			],
+			[
+				"hi",
+				"hit_stand_bust"
+			],
+			[
+				"current",
+				"current_plan"
+			],
+			[
+				"acc",
+				"accept_payment"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"deal",
+				"deal_a_card_down"
+			],
+			[
+				"fl",
+				"flip"
+			],
+			[
+				"add",
+				"add_card"
+			],
+			[
+				"ge",
+				"get_ante"
+			],
+			[
+				"ant",
+				"ante_check"
+			],
+			[
+				"cle",
+				"clear_hands"
+			],
+			[
+				"W",
+				"WAITTIME"
+			],
+			[
+				"d",
+				"dtstamp"
+			],
+			[
+				"ip",
+				"ip_addr"
+			],
+			[
+				"ech",
+				"echofunction"
+			],
+			[
+				"Su",
+				"SUBJECT"
+			],
+			[
+				"Fr",
+				"FROMADDRESS"
+			],
+			[
+				"me",
+				"messageText"
+			],
+			[
+				"lo",
+				"localFile"
+			],
+			[
+				"lin",
+				"linesPerNormalFile"
+			],
+			[
+				"fir",
+				"firstLine"
+			],
+			[
+				"sma",
+				"smallerFile"
+			],
+			[
+				"nu",
+				"numberOfFiles"
+			],
+			[
+				"loca",
+				"localFile"
+			],
+			[
+				"numberOf",
+				"numberOfFiles"
+			],
+			[
+				"num",
+				"numberOfLines"
+			],
+			[
+				"c",
+				"cfile"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"r",
+				"radiusSquared"
+			],
+			[
+				"t",
+				"theValue"
+			],
+			[
+				"q",
+				"quicksortInPlace"
+			],
+			[
+				"in",
+				"insertionSort"
+			],
+			[
+				"p",
+				"pivotValue"
+			],
+			[
+				"e",
+				"endLoc"
+			],
+			[
+				"s",
+				"startLoc"
+			],
+			[
+				"loc",
+				"locVal"
+			],
+			[
+				"qu",
+				"quicksortInplace"
+			],
+			[
+				"po",
+				"pos2"
+			],
+			[
+				"pos",
+				"pos1"
+			],
+			[
+				"cur",
+				"curlocval"
+			],
+			[
+				"v",
+				"valueToSort"
+			],
+			[
+				"va",
+				"valAtY"
+			],
+			[
+				"val",
+				"valueToSort"
+			],
+			[
+				"sear",
+				"searchValue"
+			],
+			[
+				"pl",
+				"placed"
+			],
+			[
+				"dou",
+				"doubleGrowth"
+			],
+			[
+				"inp",
+				"inputString"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"n",
+				"numofpoints"
+			],
+			[
+				"cl",
+				"cleanhome"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"ta",
+				"tagcounts"
+			],
+			[
+				"eachtag",
+				"eachtagname"
+			],
+			[
+				"addT",
+				"addTagToContact"
+			],
+			[
+				"create",
+				"createNewTag"
+			],
+			[
+				"pr",
+				"prep"
+			],
+			[
+				"intere",
+				"interestingData"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ideas.md",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"browser",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"brows",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"brow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"markd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"hea",
+				"Auto Update Source Header"
+			],
+			[
+				"head",
+				"Auto Update Source Header"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pu",
+				"Git: Pull"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"set mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Set Syntax: Regular Expression"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 340.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jlmarks/dangerzone/scripts/orderFormInterface/notes.md",
+		"/etc/profile",
+		"/etc/bash.bashrc",
+		"/home/jlmarks/dangerzone/_notes_whyHireMe.md",
+		"/home/jlmarks/.bashrc",
+		"/home/jlmarks/twasync/notes_p4.md",
+		"/home/jlmarks/twasync/p3suggestedExercises-othersSolutions.md",
+		"/home/jlmarks/twasync/blockingsockets.md",
+		"/home/jlmarks/twasync/p3suggestedExercises.py",
+		"/home/jlmarks/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/jlmarks/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/jlmarks/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/jlmarks/twasync/jdavisp3-twisted-intro-8f9d137/blocking-client/get-poetry.py",
+		"/home/jlmarks/twasync/test.py",
+		"/home/jlmarks/twasync/pythonSelect.md",
+		"/home/jlmarks/twasync/jdavisp3-twisted-intro-8f9d137/async-client/get-poetry-moded.py",
+		"/home/jlmarks/twasync/t2.py",
+		"/home/jlmarks/dangerzone/__notes/software/mysql/TableCreationString.txt",
+		"/home/jlmarks/dangerzone/inbox/inbox.txt",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/gettables.php",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/my.pw.php",
+		"/home/jlmarks/Desktop/encryptedInbox.csv",
+		"/home/jlmarks/Desktop/encryptedInbox.sql",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/sftp-config.json",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/header.php",
+		"/home/jlmarks/dangerzone/scripts/php/index.php",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/index.php",
+		"/home/jlmarks/dangerzone/scripts/bash/webanize.sh",
+		"/home/jlmarks/js/syntaxhighlighter_3.0.83/index.html",
+		"/home/jlmarks/dangerzone/scripts/php/onlineVideoPage/todo.txt",
+		"/home/jlmarks/dangerzone/scripts/php/functions.php",
+		"/home/jlmarks/dangerzone/scripts/bash/webanize.conf",
+		"/home/jlmarks/dangerzone/scripts/python/uploadT.py/my.pw.py",
+		"/home/jlmarks/dangerzone/scripts/python/uploadT.py/my.pw/__init__.py",
+		"/home/jlmarks/dangerzone/scripts/python/uploadT.py/__init__.py",
+		"/home/jlmarks/dangerzone/filesOfNote/README.md",
+		"/home/jlmarks/.config/sublime-text-2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/jlmarks/dangerzone/scripts/ruby/my.pw.rb",
+		"/home/jlmarks/dangerzone/__notes/inbox/todo.txt",
+		"/home/jlmarks/dangerzone/scripts/ruby/apiTest.rb",
+		"/home/jlmarks/dangerzone/scripts/php/linksOfInterest.php",
+		"/home/jlmarks/dangerzone/scripts/php/books.functions.php",
+		"/home/jlmarks/dangerzone/scripts/bash/linksUpdate.sh",
+		"/home/jlmarks/dangerzone/scripts/php/nindex.php",
+		"/home/jlmarks/dangerzone/scripts/php/connection.php",
+		"/home/jlmarks/dangerzone/scripts/php/my.pw.php",
+		"/home/jlmarks/dangerzone/scripts/php/books.connection.php",
+		"/tmp/sublime-sftp-browse-1424135182/jlmarks/home/content/06/6816406/html/books/index.php",
+		"/home/jlmarks/.config/sublime-text-2/Packages/User/PHP.sublime-settings",
+		"/home/jlmarks/dangerzone/scripts/ruby/CreditCard.txt",
+		"/home/jlmarks/dangerzone/scripts/ruby/Invoice.txt",
+		"/home/jlmarks/dangerzone/scripts/ruby/Opportunity.txt",
+		"/home/jlmarks/dangerzone/scripts/ruby/Contact.txt",
+		"/home/jlmarks/dangerzone/scripts/html/embedLocalFullScreenSWF.html",
+		"/home/jlmarks/dangerzone/scripts/ruby/c.rb",
+		"/home/jlmarks/Desktop/cityzip.csv",
+		"/home/jlmarks/dangerzone/__notes/inbox/startUpFile-actions-toInclude.md",
+		"/home/jlmarks/csvToSql.php",
+		"/home/jlmarks/dangerzone/__notes/inbox/javascriptImplementationToFindDistanceBetweenTwoLatLongPoints.md",
+		"/home/jlmarks/Desktop/zipcode.sql",
+		"/home/jlmarks/.cache/.fr-KlaNBo/README",
+		"/run/user/1000/gvfs/sftp:host=jlmarks.org/home/content/06/6816406/html/coder/README.md",
+		"/home/jlmarks/dangerzone/README.md",
+		"/home/jlmarks/dangerzone/stuffOfNote/README.md",
+		"/home/jlmarks/dangerzone/scripts/ruby/tg6.rb",
+		"/home/jlmarks/dangerzone/scripts/ruby/isexamples.rb",
+		"/home/jlmarks/dangerzone/__notes/inbox/script_ideas.md",
+		"/home/jlmarks/dangerzone/__notes/ruby/loadingOtherFiles.md",
+		"/home/jlmarks/dangerzone/__notes/inbox/writing_experiment_topics/setting_up_encfs.md",
+		"/home/jlmarks/dangerzone/__notes/inbox/writing_experiment_topics/_RubyWizard_book_report.md",
+		"/home/jlmarks/dangerzone/__notes/inbox/writing_experiment_topics/git_moveFilesFromOneLocationToAnother.md",
+		"/home/jlmarks/dangerzone/.gitignore",
+		"/home/jlmarks/dangerzone/scripts/bash/gitem.sh",
+		"/home/jlmarks/dangerzone/__notes/inbox/writing_experiment_topics/setting_up_git_server_to_over_internet.md",
+		"/home/jlmarks/dangerzone/__notes/namingConventions.gitignore.md",
+		"/home/jlmarks/Desktop/thoughts.txt",
+		"/home/jlmarks/dangerzone/__notes/ruby/BeginnerRuby_RubyWizardry.md",
+		"/home/jlmarks/dangerzone/__notes/ruby/conventions_comments.md",
+		"/home/jlmarks/dangerzone/__notes/ruby/howtos.md",
+		"/home/jlmarks/dangerzone/__notes/ruby/common_functions.md",
+		"/home/jlmarks/dangerzone/__notes/ruby/commands.md",
+		"/home/jlmarks/dangerzone/scripts/ruby/testingGrounds1.rb",
+		"/home/jlmarks/dangerzone/scripts/ruby/tg2.rb",
+		"/home/jlmarks/dangerzone/__notes/ruby/howtos.md~",
+		"/home/jlmarks/dangerzone/tetest.txt",
+		"/home/jlmarks/dangerzone/mycode/mypy/tteesst",
+		"/home/jlmarks/dangerzone/mycode/mypy/__init__.py",
+		"/home/jlmarks/dangerzone/mycode/mypy/minesweeper.py",
+		"/home/jlmarks/dangerzone/mypy/words.txt",
+		"/home/jlmarks/dangerzone/mycode/mynotes/software notes/screen",
+		"/home/jlmarks/dangerzone/mycode/mynotes/software notes/rc_d",
+		"/home/jlmarks/dangerzone/mycode/mynotes/software notes/chcon.md",
+		"/home/jlmarks/dangerzone/mycode/mynotes/software notes/apache",
+		"/home/jlmarks/dangerzone/mycode/mynotes/cheatsheets/SublimeText2",
+		"/home/jlmarks/dangerzone/0notes/troubleshooting.md",
+		"/home/jlmarks/dangerzone/mycode/mynotes/gitnotes.md",
+		"/home/jlmarks/dangerzone/mycode/bash/notes/notifyServerStatus.sh",
+		"/home/jlmarks/dangerzone/mycode/bash/notes/3Feb.SpecialCharacters.md",
+		"/home/jlmarks/dangerzone/mycode/bash/scratchpad.sh",
+		"/home/jlmarks/dangerzone/mycode/bash/ex32.sh",
+		"/home/jlmarks/dangerzone/mycode/bash/ex31.sh",
+		"/home/jlmarks/dangerzone/mycode/bash/0new.sh",
+		"/home/jlmarks/thismessage.txt",
+		"/home/jlmarks/dangerzone/hackerrank/findMedian.py",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Notes.md",
+		"/home/jlmarks/dangerzone/_in_progress/mypy2/3.29",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-02Part2.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-02Part1.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-01IntroductionAndToC.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-04Part3.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-05Part4.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-06Part5.txt",
+		"/home/jlmarks/dangerzone/mycode/bash/advancedBashScriptingGuide/00Book-07Appendix.txt",
+		"/home/jlmarks/Desktop/abs-guide.txt",
+		"/home/jlmarks/.config/sublime-text-2/Packages/FileHeader/FileHeader.py",
+		"/home/jlmarks/.config/sublime-text-2/Packages/FileHeader/FileHeader.sublime-settings",
+		"/home/jlmarks/dangerzone/hackerrank/test.py",
+		"/home/jlmarks/dangerzone/hackerrank/flowers.py",
+		"/home/jlmarks/dangerzone/hackerrank/pangrams.py",
+		"/home/jlmarks/dangerzone/csvSplit.py",
+		"/home/jlmarks/000localCSV.csv",
+		"/home/jlmarks/dangerzone/mycode/mybash/gpush.sh",
+		"/home/jlmarks/.cache/.fr-9tvCmr/Fielding.csv",
+		"/home/jlmarks/dangerzone/hackerrank/circleCity.py",
+		"/home/jlmarks/Desktop/expected.txt",
+		"/home/jlmarks/Desktop/output.txt",
+		"/home/jlmarks/.config/sublime-text-2/Packages/Diffy/Diffy.sublime-settings",
+		"/home/jlmarks/dangerzone/hackerrank/quicksort4.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/jlmarks/dangerzone",
+			"/home/jlmarks/dangerzone/mysql"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"\n\n",
+			" \n",
+			"a.",
+			"statme",
+			"db.close()",
+			"MySQLdb.connect(host=pw.DBPATH, user=pw.DBUSER, passwd=pw.DBPASSWORD, db=pw.DBTOUSE)",
+			"my.",
+			"=",
+			"$",
+			".to_i\\]\\[",
+			"current_tag_cat",
+			"result",
+			"results",
+			"res",
+			"(results",
+			"results",
+			">",
+			"<",
+			"<h3",
+			"asdf.",
+			"asdf._",
+			"~ReferringAffiliateContact._CustomField~",
+			"~Contact._CustomField~",
+			"._",
+			"relationship._CustomField",
+			"asdf.",
+			"~ReferringAffiliateContact._CustomField~",
+			"~Contact._CustomField~",
+			"._",
+			"~relationship._CustomField~",
+			"asdf.",
+			"~ReferringAffiliateContact._CustomField~",
+			"~Contact._CustomField~",
+			"._",
+			"asdf.",
+			"._",
+			"ssmtp",
+			"appname",
+			"SELECT",
+			"~/thismessage.txt",
+			"addresses",
+			"LOGFILE",
+			"Appendix",
+			"chapter",
+			"ap",
+			"Part",
+			"		",
+			"image",
+			"wand",
+			"5",
+			" 	",
+			"fbSubmittedTotal",
+			"fbSubmittedData",
+			"fromAddress",
+			"tagID",
+			"myconfig.",
+			"parse",
+			"myconfig.",
+			"\"[abcdefghijkl]\"",
+			"try",
+			"\"\"\"\nChat",
+			"\"\"\"",
+			"rett.append",
+			"mysessions",
+			"myfunc.",
+			"creat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"results",
+			"datum",
+			"data_set"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ideas.md",
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdf\\x04\\x07\\x168\\x01\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 135.0
+	},
+	"output.sftp":
+	{
+		"height": 167.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

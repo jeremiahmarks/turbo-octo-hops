@@ -18,3 +18,7 @@ the regular shopping cart or order form posts to.
 scrape all of the submissions from the report and provide the data
 in a nice csv file. (Eventually a pretty report)
 
+* write mobile app that is browser only for the users forms
+and cart.  Write browser wide stylesheet that overwrites the
+forms stylesheet so that users can have mobile styling. 
+
